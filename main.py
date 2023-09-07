@@ -1,7 +1,7 @@
 # # Week  
 # # This week we will work on :
 # # Working With Strings
-
+#typing stuff
 # # 1.   Working With Numbers
 # # 2.   Getting Input From Users
 # # 3.   mathematical operations
